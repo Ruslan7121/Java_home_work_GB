@@ -9,3 +9,8 @@
   + [Задача №4 В файле содержится строка с исходными данными. Требуется на её основе построить и вывести на экран новую строку, в форме SQL запроса](https://github.com/Ruslan7121/Java_home_work_GB/tree/main/Lesson_2/Task_4/src)
   + [Задача №5 Реализуйте алгоритм сортировки пузырьком числового массива, результат после каждой итерации запишите в лог-файл](https://github.com/Ruslan7121/Java_home_work_GB/tree/main/Lesson_2/Task_5/src)
   + [Задача №6 В файле содержится строка с данными. Напишите метод, который разберёт её на составные части и, используя StringBuilder создаст массив строк](https://github.com/Ruslan7121/Java_home_work_GB/tree/main/Lesson_2/Task_6/src)
+
+* [Lesson 3](https://github.com/Ruslan7121/Java_home_work_GB/tree/main/Lesson_3)
+  + [Задача №7 Реализовать алгоритм сортировки слиянием](https://github.com/Ruslan7121/Java_home_work_GB/tree/main/Lesson_3/Task_7/src)  
+  + [Задача №8 Дан произвольный список целых чисел. Удалить из него чётные числа](https://github.com/Ruslan7121/Java_home_work_GB/tree/main/Lesson_3/Task_8/src)
+  + [Задача №9 Задан целочисленный список ArrayList. Найти минимальное, максимальное и среднее арифметичское этого списка](https://github.com/Ruslan7121/Java_home_work_GB/tree/main/Lesson_3/Task_9/src)
