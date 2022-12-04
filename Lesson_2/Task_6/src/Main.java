@@ -25,10 +25,11 @@ public class Main {
                     String[] strNew3 = item3.split(":");
                     dictionary.put(strNew3[0], strNew3[1]);
                 }
-                StringBuilder sb = new StringBuilder();
-                sb.append("Студент " + dictionary.get("фамилия") + " получил " + dictionary.get("оценка")
+                StringBuilder stringBuilder = new StringBuilder();
+                stringBuilder.append("Студент " + dictionary.get("фамилия")
+                        + " получил " + dictionary.get("оценка")
                         + " по предмету " + dictionary.get("предмет"));
-                System.out.println(sb);
+                System.out.println(stringBuilder);
             }
         }
     }
