@@ -1,6 +1,6 @@
 ## Домашняя работа
-* [Lesson 1](https://github.com/Ruslan7121/Java_home_work_GB/tree/main/Lesson_1)
 
+* [Lesson 1](https://github.com/Ruslan7121/Java_home_work_GB/tree/main/Lesson_1)
     + [Задача №1 Вычислить n-ое треугольного число(сумма чисел от 1 до n), n! (произведение чисел от 1 до n)](https://github.com/Ruslan7121/Java_home_work_GB/tree/main/Lesson_1/Task_1/src#вычислить-n-ое-треугольного-числосумма-чисел-от-1-до-n-n-произведение-чисел-от-1-до-n)
     + [Задача №2 Вывести все простые числа от 1 до 1000](https://github.com/Ruslan7121/Java_home_work_GB/tree/main/Lesson_1/Task_2/src#вывести-все-простые-числа-от-1-до-1000-чисел-от-1-до-n-n-произведение-чисел-от-1-до-n)
     + [Задача №3 Реализовать простой калькулятор](https://github.com/Ruslan7121/Java_home_work_GB/tree/main/Lesson_1/Task_3/src)
@@ -14,3 +14,7 @@
   + [Задача №7 Реализовать алгоритм сортировки слиянием](https://github.com/Ruslan7121/Java_home_work_GB/tree/main/Lesson_3/Task_7/src)  
   + [Задача №8 Дан произвольный список целых чисел. Удалить из него чётные числа](https://github.com/Ruslan7121/Java_home_work_GB/tree/main/Lesson_3/Task_8/src)
   + [Задача №9 Задан целочисленный список ArrayList. Найти минимальное, максимальное и среднее арифметичское этого списка](https://github.com/Ruslan7121/Java_home_work_GB/tree/main/Lesson_3/Task_9/src)
+
+* [Lesson 7](https://github.com/Ruslan7121/Java_home_work_GB/tree/main/Lesson_4)
+  + [Задача №10 Дан LinkedList с несколькими элементами. Реализуйте метод, который вернет “перевернутый” список](hhttps://github.com/Ruslan7121/Java_home_work_GB/tree/main/Lesson_4/Task_10/src)
+  + [Задача №11 Реализуйте очередь с помощью LinkedList со следующими методами: enqueue(), dequeue(), first()](hhttps://github.com/Ruslan7121/Java_home_work_GB/tree/main/Lesson_4/Task_11/src)
