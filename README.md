@@ -16,5 +16,5 @@
   + [Задача №9 Задан целочисленный список ArrayList. Найти минимальное, максимальное и среднее арифметичское этого списка](https://github.com/Ruslan7121/Java_home_work_GB/tree/main/Lesson_3/Task_9/src)
 
 * [Lesson 7](https://github.com/Ruslan7121/Java_home_work_GB/tree/main/Lesson_4)
-  + [Задача №10 Дан LinkedList с несколькими элементами. Реализуйте метод, который вернет “перевернутый” список](hhttps://github.com/Ruslan7121/Java_home_work_GB/tree/main/Lesson_4/Task_10/src)
-  + [Задача №11 Реализуйте очередь с помощью LinkedList со следующими методами: enqueue(), dequeue(), first()](hhttps://github.com/Ruslan7121/Java_home_work_GB/tree/main/Lesson_4/Task_11/src)
+  + [Задача №10 Дан LinkedList с несколькими элементами. Реализуйте метод, который вернет “перевернутый” список](https://github.com/Ruslan7121/Java_home_work_GB/tree/main/Lesson_4/Task_10/src)
+  + [Задача №11 Реализуйте очередь с помощью LinkedList со следующими методами: enqueue(), dequeue(), first()](https://github.com/Ruslan7121/Java_home_work_GB/tree/main/Lesson_4/Task_11/src)
