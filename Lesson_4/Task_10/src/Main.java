@@ -4,17 +4,17 @@ public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Введите минимальное число: ");
-        int minNumber = input.nextInt();
+        int min = input.nextInt();
         System.out.print("Введите максимальное число: ");
-        int maxNumber = input.nextInt();
+        int max = input.nextInt();
         System.out.print("Введите размер списка: ");
-        int listSize = input.nextInt();
+        int s = input.nextInt();
         input.close();
 
-        LinkedList<Integer> listNumber = getRandomLinkedList(minNumber, maxNumber, listSize);
-        System.out.println(listNumber);
-        reverseLinkedList(listNumber);
-        System.out.println(listNumber);
+        LinkedList<Integer> arr = getRandomLinkedList(s, min, max);
+        System.out.println(arr);
+        reverseLinkedList(arr);
+        System.out.println(arr);
     }
 
     static int getRandomNumberInt(int minimum, int maximum) { // рандомное число
