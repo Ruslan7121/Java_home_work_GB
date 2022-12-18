@@ -18,3 +18,9 @@
 * [Lesson 4](https://github.com/Ruslan7121/Java_home_work_GB/tree/main/Lesson_4)
   + [Задача №10 Дан LinkedList с несколькими элементами. Реализуйте метод, который вернет “перевернутый” список](https://github.com/Ruslan7121/Java_home_work_GB/tree/main/Lesson_4/Task_10/src)
   + [Задача №11 Реализуйте очередь с помощью LinkedList со следующими методами: enqueue(), dequeue(), first()](https://github.com/Ruslan7121/Java_home_work_GB/tree/main/Lesson_4/Task_11/src)
+
+* [Lesson 5](https://github.com/Ruslan7121/Java_home_work_GB/tree/main/Lesson_5)
+  + [Задача №12 Реализуйте структуру телефонной книги с помощью HashMap, учитывая, что один человек может иметь несколько телефонов](https://github.com/Ruslan7121/Java_home_work_GB/tree/main/Lesson_5/Task_12/src)
+  + [Задача №13 РПусть дан список сотрудников: Иван, Пётр, Антон и так далее. Написать программу, которая найдет и выведет повторяющиеся имена с количеством повторений. Отсортировать по убыванию популярности](https://github.com/Ruslan7121/Java_home_work_GB/tree/main/Lesson_5/Task_13/src)
+  + [Задача №14 Реализовать алгоритм пирамидальной сортировки (HeapSort)](https://github.com/Ruslan7121/Java_home_work_GB/tree/main/Lesson_5/Task_14/src)
+
