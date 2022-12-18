@@ -24,3 +24,6 @@
   + [Задача №13 Пусть дан список сотрудников: Иван, Пётр, Антон и так далее. Написать программу, которая найдет и выведет повторяющиеся имена с количеством повторений. Отсортировать по убыванию популярности](https://github.com/Ruslan7121/Java_home_work_GB/tree/main/Lesson_5/Task_13/src)
   + [Задача №14 Реализовать алгоритм пирамидальной сортировки (HeapSort)](https://github.com/Ruslan7121/Java_home_work_GB/tree/main/Lesson_5/Task_14/src)
 
+* [Lesson 6](https://github.com/Ruslan7121/Java_home_work_GB/tree/main/Lesson_6/Task_15/src)
+  + [Задача №15 Структура магазина ноутбуков](https://github.com/Ruslan7121/Java_home_work_GB/tree/main/Lesson_6/Task_15/src)
+ 
